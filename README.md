@@ -1,5 +1,5 @@
 # Skycrawler: SkyPixel Videos Crawler
-[![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/)[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Evilran/Skycrawler/blob/master/LICENSE)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Evilran/Skycrawler/blob/master/LICENSE)
 
     
         ____  _                                  _
